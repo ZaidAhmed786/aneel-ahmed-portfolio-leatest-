@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
-import Logo from '/public/images/logo.png'
-import Image from 'next/image'
+// import Logo from '/public/images/logo.png'
+// import Image from 'next/image'
 
 const Footer = (props) => {
     return (

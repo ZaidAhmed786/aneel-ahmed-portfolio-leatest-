@@ -2009,7 +2009,7 @@ img {
 
 /* 3.2 zoom Design */
 .personal {
-  background: url("/public/images/slider/slide-1.jpg") no-repeat center top/cover;
+  background: url("./images/slider/slide-1.jpg") no-repeat center top/cover;
   overflow: hidden;
   position: fixed;
   top: 0;
@@ -2021,7 +2021,7 @@ img {
 
 @media (max-width: 991px) {
   .personal {
-    background: url("/public/images/slider/mobail.jpg") no-repeat center top/cover;
+    background: url("./images/slider/mobail.jpg") no-repeat center top/cover;
   }
 }
 
