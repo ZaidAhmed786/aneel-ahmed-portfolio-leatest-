@@ -26,7 +26,7 @@ const Hero =() => {
             </div>
             <div className="right-vec">
                 <div className="right-img">
-                <Image src="/images/img/aneelahmed.png" alt="Aneel Ahmed" width={500} height={500} />
+                <Image src="./images/img/aneelahmed.png" alt="Aneel Ahmed" width={500} height={500} />
                 </div>
             </div>
             <div className="social-link">
