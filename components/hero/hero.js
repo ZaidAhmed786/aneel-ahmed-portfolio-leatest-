@@ -1,6 +1,6 @@
 import React from "react";
 import NavLink from 'next/link'
-import himg from '/./public/images/img/aneelahmed.png'
+// import himg from '/images/img/aneelahmed.png'
 import { Link } from 'react-scroll'
 import Image from "next/image";
 
@@ -26,7 +26,7 @@ const Hero =() => {
             </div>
             <div className="right-vec">
                 <div className="right-img">
-                    <Image src={himg} alt=""/>
+                <Image src="/images/img/aneelahmed.png" alt="Aneel Ahmed" width={500} height={500} />
                 </div>
             </div>
             <div className="social-link">
