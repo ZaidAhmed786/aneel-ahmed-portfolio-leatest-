@@ -1,6 +1,6 @@
-import Image from 'next/image';
+// import Image from 'next/image';
 import React from 'react'
-import aImg from '/public/images/img/ameel.jpg'
+// import aImg from '/public/images/img/ameel.jpg'
 
 const About = (props) => {
     return (
@@ -11,7 +11,7 @@ const About = (props) => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="tf-about-img">
-                                <Image src={aImg} alt="" />
+                                <img src='./images/img/ameel.jpg' />
                                 <div className="tf-about-img-text">
                                     <div className="tf-about-icon">
                                         <h3>15+</h3>

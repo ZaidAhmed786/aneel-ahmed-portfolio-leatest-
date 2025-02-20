@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick-theme.css";
 import blogs from '../../api/blogs'
 import BlogSingle from "../BlogSingle";
 import Link from 'next/link'
-import Image from 'next/image';
+// import Image from 'next/image';
 
 
 const BlogSection = () => {
@@ -38,7 +38,7 @@ const BlogSection = () => {
                             <div className="col col-lg-4 col-md-6 col-12" key={bl}>
                                 <div className="tp-blog-item">
                                     <div className="tp-blog-img">
-                                        <Image src={blog.screens} alt="" />
+                                        <img src={blog.screens} alt="" />
                                         <div className="thumb">{blog.thumb}</div>
                                     </div>
                                     <div className="tp-blog-content">
