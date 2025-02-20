@@ -1,6 +1,6 @@
 import React from "react";
 import NavLink from 'next/link'
-import himg from '/public/images/img/aneelahmed.png'
+import himg from '../../public/images/img/aneelahmed.png'
 import { Link } from 'react-scroll'
 import Image from "next/image";
 
