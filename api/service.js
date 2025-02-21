@@ -19,7 +19,7 @@
 const Services = [
     {
         Id: '1',
-        sImgS:"./images/services/i (1).webp",
+        sImgS:"./images/services/631a0cac0ae57128452327.jpeg",
         sTitle: 'Web Design',
         desc: 'Creating user-friendly, visually appealing websites with seamless navigation and engaging experiences.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
@@ -40,7 +40,7 @@ const Services = [
     },
     {
         Id: '2',
-        sImgS:"./images/services/i (5).webp",
+        sImgS:"./images/services/young-programmer-wor.jpg",
         sTitle: 'Web Development',
         desc: 'Building responsive, intuitive mobile apps that deliver exceptional performance and user interaction.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
@@ -62,7 +62,7 @@ const Services = [
         },
     {
         Id: '3',
-        sImgS:"./images/services/i (8).webp",
+        sImgS:"./images/services/0x0.webp",
         sTitle: 'Brand Identity',
         desc: 'Designing unique brand identities that connect with your audience and strengthen market presence.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
@@ -128,7 +128,7 @@ const Services = [
         },
     {
         Id: '6',
-        sImgS:"./images/services/i (15).webp",
+        sImgS:"./images/services/up.webp",
         sTitle: 'upwork mastery',
         desc: 'Helping you succeed on Upwork with profile optimization and winning proposal strategies.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
@@ -150,7 +150,7 @@ const Services = [
     },
     {
         Id: '7',
-        sImgS:"./images/services/i (20).webp",
+        sImgS:"./images/services/NaHWebBuygo.jpg",
         sTitle: 'Automate CRMs',
         desc: 'Streamlining business processes with automated CRM solutions for better efficiency.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
@@ -172,7 +172,7 @@ const Services = [
     },
     {
         Id: '8',
-        sImgS:"./images/services/i (23).webp",
+        sImgS:"./images/services/scale.jpg ",
         sTitle: 'Real state Indsturies',
         desc: 'Providing tailored services for real estate, from market analysis to digital marketing.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
