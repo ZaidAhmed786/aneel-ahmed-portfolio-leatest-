@@ -107,7 +107,7 @@ const Services = [
         {
             Id: '5',
             sImgS:"./images/services/i (12).webp",
-            sTitle: 'social media marketing',
+            sTitle: 'Social Media Marketing',
             desc: 'Crafting impactful social media strategies to boost online presence and audience engagement.',
             description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
             des2:'Social media is a powerful tool for brand growth, engagement, and customer interaction. We create data-driven strategies that help businesses connect with their audience, build brand loyalty, and drive conversions. By leveraging platforms like Facebook, Instagram, LinkedIn, and Twitter, we craft compelling content, targeted ads, and engagement campaigns that maximize reach and impact. Whether you want to grow your following, increase website traffic, or boost sales, our tailored social media marketing solutions ensure measurable results.',
@@ -129,7 +129,7 @@ const Services = [
     {
         Id: '6',
         sImgS:"./images/services/up.webp",
-        sTitle: 'upwork mastery',
+        sTitle: 'Upwork Mastery',
         desc: 'Helping you succeed on Upwork with profile optimization and winning proposal strategies.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'Freelancing on Upwork requires the right strategies to stand out, secure high-paying clients, and build a successful career. Our Upwork Mastery program is designed to help freelancers create compelling profiles, craft winning proposals, and master client communication. Whether youre a beginner or an experienced freelancer looking to scale, we provide expert guidance to optimize your success on the platform.',
@@ -173,7 +173,7 @@ const Services = [
     {
         Id: '8',
         sImgS:"./images/services/scale.jpg ",
-        sTitle: 'Real state Indsturies',
+        sTitle: 'Real State Indsturies',
         desc: 'Providing tailored services for real estate, from market analysis to digital marketing.',
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'The real estate industry is evolving rapidly, with digital transformation playing a crucial role in property buying, selling, and management. From residential and commercial properties to real estate investment and development, businesses in this sector require strategic solutions to stay ahead. We provide cutting-edge technology, marketing, and automation solutions to help real estate businesses streamline operations, enhance customer engagement, and maximize sales.',
