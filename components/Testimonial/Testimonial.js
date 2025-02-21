@@ -16,7 +16,7 @@ const Testimonials = [
     {
         name: 'Jane Lopez',
         title: 'Realtor, USA',
-        descriptoion: '“Working with HUSTLER BRIDGE has transformed our marketing strategy. Their AI-driven solutions boosted lead generation and conversions, and their expertise made collaboration seamless. Highly recommend for businesses seeking real results!”',
+        descriptoion: '“Working with Aneel Ahmed has transformed our marketing strategy. Their AI-driven solutions boosted lead generation and conversions, and their expertise made collaboration seamless. Highly recommend for businesses seeking real results!”',
     },
     {
         name: 'George jm',
