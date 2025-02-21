@@ -3,7 +3,7 @@ import About from '../components/about/about';
 import BackToTop from '../components/backToTop/backToTop';
 import ContactArea from '../components/ContactArea';
 import Hero from '../components/hero/hero';
-import Marquee from '../components/marque/marque';
+// import Marquee from '../components/marque/marque';
 import Navbar from '../components/Navbar/Navbar';
 import ProjectSection from '../components/ProjectSection/ProjectSection';
 import ServiceSection from '../components/ServiceSection/ServiceSection';
@@ -26,7 +26,7 @@ const HomePage = () => {
             <Element name='service'>
                 <ServiceSection />
             </Element>
-            <Marquee />
+            {/* <Marquee /> */}
             <Element name='project'>
                 <ProjectSection />
             </Element>

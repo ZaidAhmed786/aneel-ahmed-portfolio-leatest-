@@ -27,7 +27,7 @@ const ProjectSection = (props) => {
         <section className="tp-project-section section-padding">
             <div className="container">
             <div className="tp-section-title">
-                    <span>Our Projects</span>
+                    <span className='fs-3'>Our Projects</span>
                     <h2>Zolara CRM – Complete Control & Efficiency</h2>
                 </div>
                 <div className="tp-project-wrap">

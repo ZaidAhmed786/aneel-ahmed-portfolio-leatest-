@@ -77,7 +77,8 @@ html {
 body {
   font-family: "Josefin Sans", sans-serif;
   color: #767676;
-  background-color: #fff;
+  /* background-color: #fff; */
+  background-image: url(/images/img/st-2.jpg);
   font-size: 16px;
   font-size: 1.06667rem;
   overflow-x: hidden;

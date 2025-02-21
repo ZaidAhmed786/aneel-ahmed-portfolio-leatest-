@@ -12,12 +12,7 @@ const About = (props) => {
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="tf-about-img">
                                 <img src='./images/img/ameel.jpg' />
-                                <div className="tf-about-img-text">
-                                    <div className="tf-about-icon">
-                                        <h3>15+</h3>
-                                        <span>Years Exprience</span>
-                                    </div>
-                                </div>
+                              
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 col-12">

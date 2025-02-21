@@ -6,8 +6,9 @@ import { Link } from 'react-scroll'
 
 const Hero =() => {
     return (
-        <section className="tp-hero-section-1">
-            <div className="container">
+        <section className="tp-hero-section-1"    >
+
+            <div className="container " >
                 <div className="row">
                     <div className="col col-xs-7 col-lg-7">
                         <div className="tp-hero-section-text">

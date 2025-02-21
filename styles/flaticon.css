@@ -97,6 +97,9 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     content: "\f11a";
 }
 
+.flaticon-Location:before {
+    content: "\f11a";
+}
 
 
 

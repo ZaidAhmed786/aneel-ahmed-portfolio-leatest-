@@ -26,6 +26,11 @@
             .tp-service-single-main-img {
                 margin-bottom: 30px;
             }
+            .tp-service-single-main-img img{
+                width: 100%;
+                object-fit: cover;
+                height: 400px;
+            }
 
             &:last-child {
                 margin-bottom: 0;
@@ -67,6 +72,10 @@
 
         .tp-p-details-img {
             margin-bottom: 10px;
+        }
+        .tp-p-details-img img{
+            width: 100%;
+            height: 200px;
         }
 
         .tp-service-area {

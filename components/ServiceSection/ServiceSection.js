@@ -35,7 +35,7 @@ const ServiceSection = (props) => {
                                     <i className={`fi ${service.icon}`}></i>
                                     <h2 onClick={() => handleClickOpen(service)}>{service.sTitle}</h2>
                                     <p>{service.desc}</p>
-                                    <button className="read-more">
+                                    <button className="read-more" onClick={() => handleClickOpen(service)}>
                                         <i className="fi flaticon-right-arrow"></i>
                                     </button>
                                 </div>
@@ -47,7 +47,13 @@ const ServiceSection = (props) => {
             <div className="visible-rotate-text">
                 <h1>Services</h1>
             </div>
-            <ServiceSingle open={open} onClose={handleClose} title={state.sTitle} dImg={state.sImgS} sImg1={state.ssImg1} sImg2={state.ssImg2} />
+            <ServiceSingle open={open} onClose={handleClose} desc={state.desc} title={state.sTitle} dImg={state.sImgS} sImg1={state.ssImg1} sImg2={state.ssImg2} des2={state.des2} des3={state.des3}  head1={state.head1} 
+             des4={state.des4} li1={state.li1} li2={state.li2}
+            li3={state.li3} li4={state.li4} li5={state.li5}   
+            
+            
+            
+            />
         </div>
     );
 }
