@@ -16,7 +16,7 @@ const Hero =() => {
                                 <h1>I'M <span  style={{color: "rgb(255, 207, 51)"}}>ANEEL AHMED</span> </h1>
                             </div>
                             <div className="tp-hero-sub">
-                                <p className="fw-bold">Entrepreneur</p>
+                                <p className="fw-bold">Your Mentor</p>
                             </div>
                             <div className="btns">
                                 <Link activeClass="active" to="contact" spy={true} smooth={true} duration={500} offset={-95} className="theme-btn">Work with Me</Link>
@@ -38,7 +38,7 @@ const Hero =() => {
                 </ul>
             </div>
             <div className="visible-text">
-                <h1>Developer</h1>
+                <h3>Entrepreneur</h3>
             </div>
         </section>
     )

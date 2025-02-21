@@ -32,7 +32,6 @@ const ServiceSection = (props) => {
                         {Services.slice(0, 8).map((service, srv) => (
                             <div className="col col-lg-3 col-md-6 col-12 mt-5" key={srv}>
                                 <div className="tp-service-item">
-                                    <i className={`fi ${service.icon}`}></i>
                                     <h2 onClick={() => handleClickOpen(service)}>{service.sTitle}</h2>
                                     <p>{service.desc}</p>
                                     <button className="read-more" onClick={() => handleClickOpen(service)}>

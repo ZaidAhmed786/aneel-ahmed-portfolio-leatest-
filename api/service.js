@@ -25,7 +25,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'A well-crafted website is essential for establishing a strong online presence. Our web design services focus on creating visually appealing, user-friendly, and responsive websites that enhance engagement and drive conversions. Whether you need a personal blog, an e-commerce store, or a corporate site, we ensure a seamless user experience with intuitive navigation and modern aesthetics.',
         des3:'Web design is more than just aesthetics; it’s about creating a digital experience that resonates with users. We specialize in designing professional, mobile-friendly, and SEO-optimized websites that adapt to various devices. From layout structure to interactive elements, our designs are built to capture attention, improve functionality, and deliver a lasting impression for your brand.',
-        icon:'flaticon-vector',
+       
         projects:'213',
         ssImg1:"./images/services/i (3).webp",
         ssImg2:"./images/services/i.webp",
@@ -46,7 +46,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'We specialize in crafting high-performance, scalable, and user-friendly websites tailored to meet business needs. Our development process ensures seamless functionality, responsiveness, and optimized performance. From front-end design to back-end integration, we leverage the latest technologies to deliver efficient digital solutions.   ',
         des3:'Web development is the backbone of a strong online presence, enabling businesses to engage users and streamline operations. We specialize in creating robust, scalable, and high-performance websites using modern technologies. From dynamic web applications to seamless API integrations, our development process ensures that your website is fast, secure, and optimized for maximum efficiency. Whether you need a custom-built platform, an e-commerce store, or a content management system, we deliver tailored solutions that enhance user experience and business growth.',
-        icon:'flaticon-smartphone',
+        
         projects:'102',
         ssImg1:"./images/services/i (2).webp",
         ssImg2:"./images/services/i (4).webp",
@@ -68,7 +68,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'Brand identity is the visual and conceptual representation of a business, shaping how it is perceived by customers. A strong brand identity builds trust, recognition, and a lasting impression. We specialize in crafting compelling brand identities that align with your business vision and resonate with your target audience. From logo design to brand messaging, we ensure consistency across all touchpoints, helping your brand stand out in a competitive market.',
         // des3:'One way to categorize the activities is in terms of the professional’s area of expertise such as competitive analysis, corporate strategy the activities',
-        icon:'flaticon-palette',
+        
         projects:'60',
         ssImg1:"./images/services/i (7).webp",
         ssImg2:"./images/services/i (6).webp",
@@ -90,7 +90,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'Digital marketing is the key to growing your online presence and reaching the right audience effectively. We provide data-driven marketing solutions that enhance brand awareness, generate leads, and boost conversions. Our strategies combine SEO, social media, paid advertising, and content marketing to create impactful campaigns that drive measurable results. Whether youre looking to increase website traffic or build customer engagement, we craft tailored marketing solutions to help your business thrive in the digital space.',
         des3:'In today’s digital landscape, a strong online presence is essential for business success. Our digital marketing strategies focus on maximizing your brand’s visibility, engagement, and conversions. By leveraging data-driven techniques, we create targeted campaigns that connect with the right audience, enhance brand recognition, and drive measurable results. Whether its SEO, paid ads, or content marketing, we ensure your brand stays ahead in the competitive digital space.',
-        icon:'flaticon-bar-chart',
+        
         projects:'230',
         ssImg1:"./images/services/i (10).webp",
         ssImg2:"./images/services/i (11).webp",
@@ -112,7 +112,7 @@ const Services = [
             description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
             des2:'Social media is a powerful tool for brand growth, engagement, and customer interaction. We create data-driven strategies that help businesses connect with their audience, build brand loyalty, and drive conversions. By leveraging platforms like Facebook, Instagram, LinkedIn, and Twitter, we craft compelling content, targeted ads, and engagement campaigns that maximize reach and impact. Whether you want to grow your following, increase website traffic, or boost sales, our tailored social media marketing solutions ensure measurable results.',
             des3:'An effective social media marketing strategy goes beyond just posting content—it requires strategic planning, audience insights, and continuous optimization. We focus on creating engaging visuals, persuasive copy, and interactive campaigns that resonate with your target audience. With our expertise in paid and organic social media growth, we help brands establish a strong digital presence and drive long-term success.',
-            icon:'flaticon-vector',
+            icon:'',
             projects:'213',
             ssImg1:"./images/services/i (13).webp",
             ssImg2:"./images/services/i (14).webp",
@@ -134,7 +134,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'Freelancing on Upwork requires the right strategies to stand out, secure high-paying clients, and build a successful career. Our Upwork Mastery program is designed to help freelancers create compelling profiles, craft winning proposals, and master client communication. Whether youre a beginner or an experienced freelancer looking to scale, we provide expert guidance to optimize your success on the platform.',
         des3:'Succeeding on Upwork is more than just sending proposals; it involves building a strong portfolio, understanding the Upwork algorithm, and maintaining client relationships for long-term growth. With proven strategies, we help freelancers land consistent projects, increase earnings, and establish a strong reputation in their niche.',
-        icon:'flaticon-smartphone',
+        
         projects:'102',
         ssImg1:"./images/services/i (16).webp",
         ssImg2:"./images/services/i (17).webp",
@@ -156,7 +156,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'Customer Relationship Management (CRM) automation streamlines business processes, improves efficiency, and enhances customer interactions. By automating repetitive tasks such as lead tracking, follow-ups, and data entry, businesses can focus on building stronger relationships and driving sales. Our CRM automation solutions integrate AI-driven workflows, email automation, and real-time analytics to optimize customer engagement and operational efficiency.',
         des3:'A well-automated CRM system not only saves time but also ensures accuracy and consistency in managing customer data. We specialize in setting up and customizing CRMs to automate lead nurturing, pipeline management, and customer support. Whether its sales automation, marketing automation, or workflow integration, we create tailored CRM solutions to enhance productivity and customer retention.',
-        icon:'flaticon-palette',
+        
         projects:'60',
         ssImg1:"./images/services/i (19).webp",
         ssImg2:"./images/services/i (18).webp",
@@ -178,7 +178,7 @@ const Services = [
         description:'Explain to you how all this mistaken idea of denouncing pleasure born and give you complete account the system.',
         des2:'The real estate industry is evolving rapidly, with digital transformation playing a crucial role in property buying, selling, and management. From residential and commercial properties to real estate investment and development, businesses in this sector require strategic solutions to stay ahead. We provide cutting-edge technology, marketing, and automation solutions to help real estate businesses streamline operations, enhance customer engagement, and maximize sales.',
         des3:'Success in real estate depends on strong branding, digital marketing, and data-driven decision-making. Whether youre a property developer, real estate agent, or investor, we help you leverage CRM automation, targeted advertising, and lead generation strategies to drive business growth. Our tailored solutions ensure a seamless property search experience, smart portfolio management, and optimized customer interactions.',
-        icon:'flaticon-bar-chart',
+        
         projects:'230',
         ssImg1:"./images/services/i (22).webp",
         ssImg2:"./images/services/i (21).webp",

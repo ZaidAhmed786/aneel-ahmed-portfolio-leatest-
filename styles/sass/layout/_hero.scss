@@ -272,30 +272,30 @@
 		display: none;
 	}
 
-	h1 {
-		font-size: 300px;
+	h3 {
+		font-size: 160px;
 		letter-spacing: 5px;
 		color: #3b3b3b;
 		line-height: 200px;
 		text-transform: uppercase;
 
 		@media(max-width:1700px) {
-			font-size: 300px;
+			font-size: 160px;
 			line-height: 200px;
 		}
 
 		@media(max-width:1600px) {
-			font-size: 250px;
+			font-size: 160px;
 			line-height: 200px;
 		}
 
 		@media(max-width:1399px) {
-			font-size: 200px;
+			font-size: 160px;
 			line-height: 150px;
 		}
 
 		@media(max-width:1199px) {
-			font-size: 150px;
+			font-size: 160px;
 			line-height: 150px;
 		}
 	}

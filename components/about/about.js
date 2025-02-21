@@ -20,7 +20,7 @@ const About = (props) => {
                                 <small>Nice to meet you!</small>
                                 <h2>WELCOME TO...</h2>
                                 <h5>Lessons from Scaling a Tech Business Worldwide</h5>
-                                <p>I’m Aneel Ahmed, an entrepreneur passionate about building solutions that make an impact. Over the years, I’ve managed digital marketing, web design and development, automated HR processes, and tackled mystery projects on Upwork. My journey has been about solving problems and creating value, which led me to launch a CRM product that is now successfully running in 20+ countries. From scaling businesses to leveraging automation, I believe in building things that drive growth and efficiency. My experience has taught me the power of innovation, persistence, and adaptability in today’s fast-evolving digital landscape.</p>
+                                <p className='fw-bold'>I’m Aneel Ahmed  , an entrepreneur passionate about building solutions that make an impact. Over the years, I’ve managed digital marketing, web design and development, automated HR processes, and tackled mystery projects on Upwork. My journey has been about solving problems and creating value, which led me to launch a CRM product that is now successfully running in 20+ countries. From scaling businesses to leveraging automation, I believe in building things that drive growth and efficiency. My experience has taught me the power of innovation, persistence, and adaptability in today’s fast-evolving digital landscape.</p>
 
                                 <div className="tf-funfact">
                                     <div className="tf-funfact-item">

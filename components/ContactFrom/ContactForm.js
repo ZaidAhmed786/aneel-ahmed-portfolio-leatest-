@@ -96,7 +96,7 @@ const ContactForm = () => {
                 <div className="col-md-7 order-md-2 order-1 col-12">
                     <div className="contact-info">
                         <ul>
-                            <li><i className="fi flaticon-phone-call"></i> +1238575694</li>
+                            <li><i className="fi flaticon-phone-call"></i> +92 308 7580007</li>
                             <li><i className="fi flaticon-mail"></i> example@mail.com</li>
                         </ul>
                     </div>
