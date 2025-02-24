@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <Head>
-        <title>Tonu - Creative Portfolio Next Template</title>
+        <title>Aneel Ahmed - portfolio</title>
       </Head>
       <Component {...pageProps} />
     </div>
