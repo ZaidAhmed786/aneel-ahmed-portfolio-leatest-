@@ -21,12 +21,12 @@ const Testimonials = [
     {
         name: 'George jm',
         title: 'SEO Services ',
-        descriptoion: '“HUSTLER BRIDGE revolutionized our marketing strategy with AI-driven solutions, boosting lead generation and conversions. Their expertise and proactive communication were key to our success. Highly recommend for tech-driven marketing.”',
+        descriptoion: '“Aneel Ahmed revolutionized our marketing strategy with innovative, tech-driven solutions, significantly boosting lead generation and conversions. His expertise and proactive communication were key to our success. Highly recommended for result-oriented digital marketing.”',
     },
     {
         name: 'Will Smith',
         title: 'Journalist, HWO News',
-        descriptoion: '“HUSTLER BRIDGE has greatly impressed me with their service and results. Their expertise boosted our online presence, engagement, and conversions. Highly dedicated and tailored solutions. I highly recommend them.”',
+        descriptoion: '“Aneel Ahmed has greatly impressed me with their service and results. Their expertise boosted our online presence, engagement, and conversions. Highly dedicated and tailored solutions. I highly recommend them.”',
     },
 ]
 

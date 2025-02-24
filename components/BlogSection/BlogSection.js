@@ -44,7 +44,6 @@ const BlogSection = () => {
                                     <div className="tp-blog-content">
                                         <ul>
                                             <li>{blog.create_at}</li>
-                                            <li>By <Link href="/">{blog.author}</Link></li>
                                         </ul>
                                         <h2 >{blog.title}</h2>
                                         <p>{blog.description}</p>
